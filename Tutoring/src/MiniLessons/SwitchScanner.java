@@ -1,5 +1,5 @@
-package MiniLessons.SwitchStatementsMiniLesson;
-// MiniLessons.SwitchStatementsMiniLesson.SwitchScanner.java
+package MiniLessons;
+// MiniLessons.SwitchScanner.java
 /*
 Give the program a number between 1-12 to get the name of the month corresponding to that number. Experimentation with
 switch statements.

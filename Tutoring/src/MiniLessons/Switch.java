@@ -1,5 +1,5 @@
-package MiniLessons.SwitchStatementsMiniLesson;
-// MiniLessons.SwitchStatementsMiniLesson.Switch.java
+package MiniLessons;
+// Switch.java
 /*
 Experimenting with classic switch statements by making the program print out the day of the week depending on the
 number assigned to the integer "day."
